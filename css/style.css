@@ -1,0 +1,26 @@
+.navList {
+  overflow: hidden;
+  background-color: #333;
+  height: 38px;
+}
+li {
+  display: inline;
+  font-size: 30px;
+  padding: 30px;
+
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+}
+
+.navLink:hover {
+  color: yellow;
+}
+
+.newBox {
+  margin: 30px;
+  border: 4px solid black;
+  padding: 10px;
+}
